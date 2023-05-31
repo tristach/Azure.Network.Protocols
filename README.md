@@ -26,10 +26,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resources: Create two VMs.  One with Windows-10, one with Linux.  
+- Observe ICMP Traffic:  Install Wireshark on Windows VM.  Filter for ICMP messages only.
+- Observe Using Wireshark:  Use the command line to perform various communication tasks between the two PCs.
 
 <h2>Actions and Observations</h2>
 
