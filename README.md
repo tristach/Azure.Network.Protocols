@@ -41,17 +41,31 @@ Resourse group: Pandora with two VMs (Win-10 and Linux).
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fSfT6Vi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Win-10 spamming everything.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/49ZPSqp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Filtering only for icmp traffic using Wireshark.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/SXFYoHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Using perpetual ping on CMD line.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/cWxx0Ay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating new security rule on Azure to stop pings.
+</p>
+<br />https://i.imgur.com/cWxx0Ay.png
