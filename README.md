@@ -95,17 +95,6 @@ Now back monitoring dhcp traffic on Wireshark.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now back monitoring dhcp traffic on Wireshark.
-</p>
-<br />
-  
-</p>
-<br />
-
 
 <p>
 <img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
