@@ -62,6 +62,7 @@ Filtering only for icmp traffic using Wireshark.
 Using perpetual ping on CMD line.
 </p>
 <br />
+
 <p>
 <img src="https://i.imgur.com/cWxx0Ay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -85,6 +86,7 @@ Pings have now stopped.
 Logged into Linux VM through CMD.  Using SSH to establish a connection.
 </p>
 <br />
+
 <p>
 <img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -92,14 +94,26 @@ Logged into Linux VM through CMD.  Using SSH to establish a connection.
 Now back monitoring dhcp traffic on Wireshark.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now back monitoring dhcp traffic on Wireshark.
 </p>
 <br />
+  
+</p>
+<br />
+
+
 <p>
 <img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Shows dns results for Microsoft website and traffic on Wireshark.
 </p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/oaU9ix0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
