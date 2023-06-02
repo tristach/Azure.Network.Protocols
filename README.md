@@ -97,7 +97,7 @@ Now back monitoring dhcp traffic on Wireshark.
 
 
 <p>
-<img src="https://i.imgur.com/z10bsDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6cC2aOl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Shows dns results for Microsoft website and traffic on Wireshark.
